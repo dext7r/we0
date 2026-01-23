@@ -58,7 +58,7 @@
     "i18next": "^24.2.2",
     "ignore": "^7.0.3",
     "jszip": "^3.10.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lucide-react": "^0.475.0",
     "node-pty": "^0.10.1",
     "npx-scope-finder": "^1.3.0",
