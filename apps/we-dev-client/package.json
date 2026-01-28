@@ -78,7 +78,7 @@
     "socks-proxy-agent": "^8.0.5",
     "styled-components": "^6.1.16",
     "tailwind-merge": "^2.6.0",
-    "tar": "^7.4.3",
+    "tar": "^7.5.7",
     "undici": "^7.5.0",
     "uuid": "^11.0.3",
     "xterm": "^5.3.0",
